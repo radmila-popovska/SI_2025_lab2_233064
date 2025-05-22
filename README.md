@@ -29,3 +29,6 @@ Multiple Condition за условот if (item.getPrice() > 300 || item.getDisc
 За дадениот if услов, бидејќи има логички оператор || (OR), потребен е само еден точен услов за да биде точен целиот израз, или сите да се неточни за да биде false
 
 ![Multiple Condition](images/multipleCondition.png)
+
+
+![Multiple Condition](images/kod.png)
